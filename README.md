@@ -1,8 +1,1 @@
-# economist
-
-# economistalgo
-# economistalgo
-# economistalgo
-# economistalgo
-# economistalgo
-# economistalgo
+This is a project to create a deep reinforment algoirthm that runs on the Salesforce AI economist framework from scratch 
